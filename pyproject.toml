@@ -2,10 +2,28 @@
 requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
+
 [project]
 name = "touchportal-api-stubs"
-version = "1.0.1"
+version = "1.0.2"
 description = "Type stubs for TouchPortalAPI"
 readme = "README.md"
 requires-python = ">=3.10"
 license = "GPL-3.0-or-later"
+
+authors = [
+  { name = "Strongbox061" }
+]
+
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Typing :: Stubs Only"
+]
+
+[project.urls]
+Homepage = "https://github.com/strongbox061/touchportal-api-stubs"
+Issues = "https://github.com/strongbox061/touchportal-api-stubs/issues"
+Source = "https://github.com/strongbox061/touchportal-api-stubs"
