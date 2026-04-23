@@ -2,6 +2,10 @@
 
 Type stubs for the `TouchPortalAPI` module provided by the `TouchPortal-API` package.
 
+## Package
+
+PyPI: https://pypi.org/project/touchportal-api-stubs/
+
 ## Upstream Package
 
 PyPI: https://pypi.org/project/touchportal-api/
