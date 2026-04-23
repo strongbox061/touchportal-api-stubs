@@ -1,2 +1,14 @@
 # touchportal-api-stubs
-Touch Portal API stubs for TouchPortal-API
+
+Type stubs for the `TouchPortalAPI` module provided by the `TouchPortal-API` package.
+
+## Upstream Package
+
+PyPI: https://pypi.org/project/touchportal-api/
+
+GitHub: https://github.com/DamienStaebler/TouchPortal-API
+
+## Install
+
+```bash
+pip install touchportal-api-stubs
