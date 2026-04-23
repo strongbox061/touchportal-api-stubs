@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "touchportal-api-stubs"
+version = "1.0.0"
+description = "Type stubs for TouchPortalAPI"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "GPL-3.0-or-later"
